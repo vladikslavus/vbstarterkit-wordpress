@@ -1,0 +1,31 @@
+@import "/node_modules/normalize.css/normalize.css";
+// @import "./main/preloader/preloader";
+
+// WOW.js animation
+@import "/node_modules/wow.js/css/libs/animate.css";
+/* it's more faster styles, choose the one you like more
+@import "../../node_modules/animate.css/animate.css";
+ */
+@import "dev";
+@import "common";
+@import "/node_modules/simplebar/dist/simplebar.css"; // custom scroll bar styles
+// Swiper
+@import "/node_modules/swiper/swiper-bundle.css";
+
+
+/* Стили для header.php */
+@import "./main/topbar";
+@import "./main/first-screen";
+
+// @import "./main/benefits/benefits";
+// @import "./main/discounts/discounts";
+// @import "./main/brands/brands";
+// @import "./main/catalog/catalog";
+// @import "./main/certs/certs";
+// @import "./main/contacts/contacts";
+
+// <main>
+
+// </main>
+
+@import "./footer";
