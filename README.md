@@ -11,6 +11,7 @@ The following tools must be installed to create the environment:
 - [Node.js](https://nodejs.org/en/)
 - [Git](https://git-scm.com/)
 - [Gulp-cli](https://gulpjs.com/docs/en/getting-started/quick-start/) (need to globally install only gulp-cli)
+- [Open Server Panel 6.0](https://ospanel.io/)
 
 If you do not have these tools, you need to install them.
 
@@ -31,7 +32,6 @@ Selective build: enter the task you need at the command line. For example, enter
 It's Time to Learn Russian ;)
 
 Чеклист по созданию нового проекта на Wordpress
-(видео https://www.youtube.com/watch?v=Q5zcWpRMl9s&t=2011s)
 
 Создаём папку по имени домена, клонируем и инсталлим сборку, в ней в папке public/ распаковываем WP, настраиваем .osp/project.ini и инсталлим WP, предварительно создав в phpMyAdmin базу и пользователя (такие же как на удалённом сервере).
 
